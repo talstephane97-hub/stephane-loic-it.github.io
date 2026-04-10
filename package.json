@@ -1,0 +1,15 @@
+{
+  "name": "portfolio-stephane-loic",
+  "version": "1.0.0",
+  "description": "Portfolio Big Data & Cybersécurité — Fom Taliedje Stephane Loic",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
